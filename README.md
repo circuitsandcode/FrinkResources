@@ -3,16 +3,16 @@
 Helpful resources for programming in Frink.
 
 ## Frink Reference
-AllFrinkFunctions.txt
-AllFrinkMethods.txt
-AllFrinkKeywordsTranslations.txt
+AllFrinkFunctions.txt  
+AllFrinkMethods.txt  
+AllFrinkKeywordsTranslations.txt  
 These three text files contain a full list of functions, methods, and keywords used by Frink. These are just for reference. Full documentation is available on the [Frink Website](https://frinklang.org/).
 
 ## Frink UDL
-FrinkDistinctSyntax.txt
+FrinkDistinctSyntax.txt  
 This file contains a distinct list of all functions, methods, statements, etc. Suitable to build syntax formatting into an IDE.
 
-FrinkUDL.xml
+FrinkUDL.xml  
 This is a User Defined Language for Notepadd++
 Work in progress. (Still need to add Dimensions.)
 
