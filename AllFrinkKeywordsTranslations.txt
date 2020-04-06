@@ -1,0 +1,91 @@
+// Last updated 2020-04-01
+// Statements & Keywords
+use
+return
+else
+then
+break
+do
+while
+until
+if
+for
+var
+is
+step
+to
+class
+interface
+
+// Translation Keywords
+From	To	Keywords
+Default	English	English, en
+Default	German	German, Deutsch, de
+Default	Spanish	Spanish, Espanol, Español, es
+Default	French	French, Francais, Français, fr
+Default	Italian	Italian, Italiano, it
+Default	Portuguese	Portuguese, pt
+Default	Korean	Korean, ko
+Default	Simplified Chinese	SimplifiedChinese, Chinese, zh
+Default	Traditional Chinese	TraditionalChinese, zt
+Default	Russian	Russian, ru
+Default	Japanese	Japanese, jp
+Default	Dutch	Dutch, Nederlands, nl
+Default	Swedish	Swedish, Svenska, sv
+Default	Arabic	Arabic, ar
+Default	Polish	Polish, pl
+Default	Greek	Greek, el
+English	Default	FromEnglish, from_en
+German	Default	FromGerman, from_de
+Spanish	Default	FromSpanish, from_es
+French	Default	FromFrench, from_fr
+Italian	Default	FromItalian, from_it
+Portuguese	Default	FromPortuguese, from_pt
+Japanese	Default	FromJapanese, from_ja
+Korean	Default	FromKorean, from_ko
+Russian	Default	FromRussian, from_ru
+Simplified Chinese	Default	FromSimplifiedChinese, FromChinese, from_zh
+Traditional Chinese	Default	FromTraditionalChinese, from_zt
+Dutch	Default	FromDutch, from_nl
+Swedish	Default	FromSwedish, from_sv
+Arabic	Default	FromArabic, from_ar
+Polish	Default	FromPolish, from_pl
+Greek	Default	FromGreek, from_el
+English	German	EnglishToGerman, en_de
+English	Spanish	EnglishToSpanish, en_es
+English	French	EnglishToFrench, en_fr
+English	Italian	EnglishToItalian, en_it
+English	Portuguese	EnglishToPortuguese, en_pt
+English	Korean	EnglishToKorean, en_ko
+English	Japanese	EnglishToJapanese, en_ja
+English	Russian	EnglishToRussian, en_ru
+English	Simplified Chinese	EnglishToSimplifiedChinese, EnglishtToChinese, en_zh
+English	Traditional Chinese	EnglishToTraditionalChinese, en_zt
+English	Dutch	EnglishToDutch, en_nl
+English	Swedish	EnglishToSwedish, en_sv
+English	Arabic	EnglishToArabic, en_ar
+English	Polish	EnglishToPolish, en_pl
+English	Greek	EnglishToGreek, en_el
+German	English	GermanToEnglish, Englisch, de_en
+German	French	GermanToFrench, franzoesisch, Franzoesisch, französisch, Französisch, de_fr
+Spanish	English	SpanishToEnglish, Inglés, Ingles, es_en
+Spanish	French	SpanishToFrench, frances, Frances, francés, Francés, es_fr
+French	English	FrenchToEnglish, Anglais, fr_en
+French	German	FrenchToGerman, Allemand, allemand, fr_de
+French	Spanish	FrenchToSpanish, Espagnol, espagnol, fr_es
+French	Portuguese	FrenchToPortuguese, Portugais, portugais, fr_pt
+French	Italian	FrenchToItalian, Italien, italien, fr_it
+Italian	English	ItalianToEnglish, Inglese, it_en
+Italian	French	ItalianToFrench, Francese, francese, it_fr
+Portuguese	English	PortugueseToEnglish, Inglês, pt_en
+Portuguese	French	PortugueseToFrench, francês, Francês, pt_fr
+Japanese	English	JapaneseToEnglish, ja_en
+Korean	English	KoreanToEnglish, ko_en
+Russian	English	RussianToEnglish, ru_en
+Simplified Chinese	English	SimplifiedChineseToEnglish, ChineseToEnglish, zh_en
+Traditional Chinese	English	TraditionalChineseToEnglish, zt_en
+Dutch	English	DutchToEnglish, Engels, nl_en
+Swedish	English	SwedishToEnglish, Engelska, engelska, sv_en
+Arabic	English	ArabicToEnglish, ar_en
+Polish	English	PolishToEnglish, pl_en
+Greek	English	GreekToEnglish, el_en
