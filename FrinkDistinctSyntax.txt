@@ -16,7 +16,7 @@ addToList addToSet binarySearch clear close combinations contains containsKey fi
 add addCenter addCenterRotate addPoint addSides addSidesRotate addSize addSizeRotate alpha antialiased antialiasedText averagePixels backgroundColor circularArc clip clipEllipseCenter clipEllipseSides clipEllipseSize clipRectCenter clipRectSides clipRectSize close color cubicCurve draw drawEllipseCenter drawEllipseSides drawEllipseSize drawRectCenter drawRectSides drawRectSize ellipseCenter ellipseSides ellipseSize fillCenter fillEllipseCenter fillEllipseSides fillEllipseSize fillRectCenter fillRectSides fillRectSize fitCenter font getArea getCentroid getHeight getPixel getPixelAsColor getPixelInt getPoints getSize getWidth invertGrays line lineTo makeARGB makeMono moveTo print printTiled quadratic resize restore restoreClip restoreTransform rotate save saveClip saveTransform scale setPixel setPixelInt show stroke text toBase64 toComplexArray toComplexArrayFromLog transform translate write writeFormat writeFormatTransparent writeTransparent
 
 // Operators
-= + - * / [ ] . @ ( ) && || != <= >= <=> <> < > ! :=
+= + - * / [ ] . @ ( ) && || != <= >= <=> <> < > ! := :-> :- ::- =!=
 
 // Operators (white space separator required)
 and AND or OR NOT not nand NAND nor NOR xor XOR implies IMPLIES mod conforms
